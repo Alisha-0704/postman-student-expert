@@ -1,6 +1,6 @@
 # Postman Student Expert Training
 
-### An API and Postman training program for students get API literate.
+### An API and Postman training program for students to get API literate.
 
 <br>
 
